@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mixture of Gaussian models | Lu Sheng (盛律)</title>
+    <link>https://lucassheng.github.io/tag/mixture-of-gaussian-models/</link>
+      <atom:link href="https://lucassheng.github.io/tag/mixture-of-gaussian-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>mixture of Gaussian models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lucassheng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>mixture of Gaussian models</title>
+      <link>https://lucassheng.github.io/tag/mixture-of-gaussian-models/</link>
+    </image>
+    
+    <item>
+      <title>Visibility Constrained Generative Model for Depth-Based 3D Facial Pose Tracking</title>
+      <link>https://lucassheng.github.io/publication/sheng-visibility-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-visibility-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

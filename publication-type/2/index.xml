@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Lu Sheng (盛律)</title>
+    <link>https://lucassheng.github.io/publication-type/2/</link>
+      <atom:link href="https://lucassheng.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lucassheng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://lucassheng.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>VPU: A Video-Based Point Cloud Upsampling Framework</title>
+      <link>https://lucassheng.github.io/publication/wang-vpu-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/wang-vpu-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion Compensated Virtual View Synthesis Using Novel Particle Cell</title>
+      <link>https://lucassheng.github.io/publication/cheung-motion-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/cheung-motion-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCG-TAL: Progressive Cross-Granularity Cooperation for Temporal Action Localization</title>
+      <link>https://lucassheng.github.io/publication/su-pcg-tal-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/su-pcg-tal-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Quality Video Generation from Static Structural Annotations</title>
+      <link>https://lucassheng.github.io/publication/sheng-high-quality-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-high-quality-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bags of tricks for learning depth and camera motion from monocular videos</title>
+      <link>https://lucassheng.github.io/publication/dong-bags-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/dong-bags-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cascaded regression using landmark displacement for 3D face reconstruction</title>
+      <link>https://lucassheng.github.io/publication/wu-cascaded-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/wu-cascaded-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visibility Constrained Generative Model for Depth-Based 3D Facial Pose Tracking</title>
+      <link>https://lucassheng.github.io/publication/sheng-visibility-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-visibility-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Disocclusion Filling Using Novel Sprite Cells</title>
+      <link>https://lucassheng.github.io/publication/cheung-spatio-temporal-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/cheung-spatio-temporal-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Head Pose Tracking with Online Face Template Reconstruction</title>
+      <link>https://lucassheng.github.io/publication/li-real-time-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/li-real-time-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Temporally Consistent Indoor Depth Video Enhancement via Static Structure</title>
+      <link>https://lucassheng.github.io/publication/sheng-online-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-online-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Three-dimensional displays | Lu Sheng (盛律)</title>
+    <link>https://lucassheng.github.io/tag/three-dimensional-displays/</link>
+      <atom:link href="https://lucassheng.github.io/tag/three-dimensional-displays/index.xml" rel="self" type="application/rss+xml" />
+    <description>Three-dimensional displays</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lucassheng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Three-dimensional displays</title>
+      <link>https://lucassheng.github.io/tag/three-dimensional-displays/</link>
+    </image>
+    
+    <item>
+      <title>Motion Compensated Virtual View Synthesis Using Novel Particle Cell</title>
+      <link>https://lucassheng.github.io/publication/cheung-motion-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/cheung-motion-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Head Pose Tracking with Online Face Template Reconstruction</title>
+      <link>https://lucassheng.github.io/publication/li-real-time-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/li-real-time-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Temporally Consistent Indoor Depth Video Enhancement via Static Structure</title>
+      <link>https://lucassheng.github.io/publication/sheng-online-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-online-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A disocclusion filling method using multiple sprites with depth for virtual view synthesis</title>
+      <link>https://lucassheng.github.io/publication/cheung-disocclusion-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/cheung-disocclusion-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screen-camera calibration using a thread</title>
+      <link>https://lucassheng.github.io/publication/li-screen-camera-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/li-screen-camera-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

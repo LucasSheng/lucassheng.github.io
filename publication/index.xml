@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Lu Sheng (盛律)</title>
+    <link>https://lucassheng.github.io/publication/</link>
+      <atom:link href="https://lucassheng.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lucassheng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://lucassheng.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds</title>
+      <link>https://lucassheng.github.io/publication/cai-3-djcg-2022/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/cai-3-djcg-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DanceFormer: Music Conditioned 3D Dance Generation with Parametric Motion Transformer</title>
+      <link>https://lucassheng.github.io/publication/li-danceformer-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/li-danceformer-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VPU: A Video-Based Point Cloud Upsampling Framework</title>
+      <link>https://lucassheng.github.io/publication/wang-vpu-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/wang-vpu-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds</title>
+      <link>https://lucassheng.github.io/publication/zhao-3-dvg-transformer-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/zhao-3-dvg-transformer-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StyleFormer: Real-time Arbitrary Style Transfer via Parametric Style Composition</title>
+      <link>https://lucassheng.github.io/publication/wu-styleformer-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/wu-styleformer-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VoteHMR: Occlusion-Aware Voting Network for Robust 3D Human Mesh Recovery from Partial Point Clouds</title>
+      <link>https://lucassheng.github.io/publication/liu-votehmr-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/liu-votehmr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds</title>
+      <link>https://lucassheng.github.io/publication/cheng-back-tracing-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/cheng-back-tracing-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis</title>
+      <link>https://lucassheng.github.io/publication/he-forgerynet-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/he-forgerynet-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IncreACO: Incrementally Learned Automatic Check-out with Photorealistic Exemplar Augmentation</title>
+      <link>https://lucassheng.github.io/publication/yang-increaco-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/yang-increaco-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion Compensated Virtual View Synthesis Using Novel Particle Cell</title>
+      <link>https://lucassheng.github.io/publication/cheung-motion-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/cheung-motion-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCG-TAL: Progressive Cross-Granularity Cooperation for Temporal Action Localization</title>
+      <link>https://lucassheng.github.io/publication/su-pcg-tal-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/su-pcg-tal-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Quality Video Generation from Static Structural Annotations</title>
+      <link>https://lucassheng.github.io/publication/sheng-high-quality-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-high-quality-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphing and Sampling Network for Dense Point Cloud Completion</title>
+      <link>https://lucassheng.github.io/publication/liu-morphing-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/liu-morphing-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powering One-Shot Topological NAS with Stabilized Share-Parameter Proxy</title>
+      <link>https://lucassheng.github.io/publication/vedaldi-powering-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/vedaldi-powering-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thinking in Frequency: Face Forgery Detection by Mining Frequency-Aware Clues</title>
+      <link>https://lucassheng.github.io/publication/vedaldi-thinking-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/vedaldi-thinking-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bags of tricks for learning depth and camera motion from monocular videos</title>
+      <link>https://lucassheng.github.io/publication/dong-bags-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/dong-bags-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAMP: Cross-Modal Adaptive Message Passing for Text-Image Retrieval</title>
+      <link>https://lucassheng.github.io/publication/wang-camp-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/wang-camp-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Pedestrian Attribute Recognition With Weakly-Supervised Multi-Scale Attribute-Specific Localization</title>
+      <link>https://lucassheng.github.io/publication/tang-improving-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/tang-improving-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Collaborative Learning of Keyframe Detection and Visual Odometry Towards Monocular Deep SLAM</title>
+      <link>https://lucassheng.github.io/publication/sheng-unsupervised-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-unsupervised-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cascaded regression using landmark displacement for 3D face reconstruction</title>
+      <link>https://lucassheng.github.io/publication/wu-cascaded-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/wu-cascaded-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context and Attribute Grounded Dense Captioning</title>
+      <link>https://lucassheng.github.io/publication/yin-context-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/yin-context-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving</title>
+      <link>https://lucassheng.github.io/publication/li-gs-3-d-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/li-gs-3-d-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics Disentangling for Text-To-Image Generation</title>
+      <link>https://lucassheng.github.io/publication/yin-semantics-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/yin-semantics-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Generation From Single Semantic Label Map</title>
+      <link>https://lucassheng.github.io/publication/pan-video-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/pan-video-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visibility Constrained Generative Model for Depth-Based 3D Facial Pose Tracking</title>
+      <link>https://lucassheng.github.io/publication/sheng-visibility-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-visibility-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoom-Net: Mining Deep Feature Interactions for Visual Relationship Recognition</title>
+      <link>https://lucassheng.github.io/publication/ferrari-zoom-net-2018/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/ferrari-zoom-net-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avatar-Net: Multi-scale Zero-Shot Style Transfer by Feature Decoration</title>
+      <link>https://lucassheng.github.io/publication/sheng-avatar-net-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-avatar-net-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Disentangled Feature Representation Beyond Face Identification</title>
+      <link>https://lucassheng.github.io/publication/liu-exploring-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/liu-exploring-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition</title>
+      <link>https://lucassheng.github.io/publication/sun-optical-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sun-optical-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Disocclusion Filling Using Novel Sprite Cells</title>
+      <link>https://lucassheng.github.io/publication/cheung-spatio-temporal-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/cheung-spatio-temporal-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
+      <link>https://lucassheng.github.io/publication/liu-multi-label-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/liu-multi-label-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis</title>
+      <link>https://lucassheng.github.io/publication/liu-hydraplus-net-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/liu-hydraplus-net-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generative Model for Depth-Based Robust 3D Facial Pose Tracking</title>
+      <link>https://lucassheng.github.io/publication/sheng-generative-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-generative-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Head Pose Tracking with Online Face Template Reconstruction</title>
+      <link>https://lucassheng.github.io/publication/li-real-time-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/li-real-time-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Temporally Consistent Indoor Depth Video Enhancement via Static Structure</title>
+      <link>https://lucassheng.github.io/publication/sheng-online-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-online-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A disocclusion filling method using multiple sprites with depth for virtual view synthesis</title>
+      <link>https://lucassheng.github.io/publication/cheung-disocclusion-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/cheung-disocclusion-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating the Distribution Estimation for the Weighted Median/Mode Filters</title>
+      <link>https://lucassheng.github.io/publication/sheng-accelerating-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-accelerating-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screen-camera calibration using a thread</title>
+      <link>https://lucassheng.github.io/publication/li-screen-camera-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/li-screen-camera-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal depth video enhancement based on intrinsic static structure</title>
+      <link>https://lucassheng.github.io/publication/sheng-temporal-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-temporal-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth enhancement based on hybrid geometric hole filling strategy</title>
+      <link>https://lucassheng.github.io/publication/sheng-depth-2013/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/sheng-depth-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Head Pose Tracking System Using RGB-D Camera</title>
+      <link>https://lucassheng.github.io/publication/li-head-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/li-head-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

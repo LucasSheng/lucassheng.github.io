@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cameras | Lu Sheng (盛律)</title>
+    <link>https://lucassheng.github.io/tag/cameras/</link>
+      <atom:link href="https://lucassheng.github.io/tag/cameras/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cameras</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lucassheng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Cameras</title>
+      <link>https://lucassheng.github.io/tag/cameras/</link>
+    </image>
+    
+    <item>
+      <title>Motion Compensated Virtual View Synthesis Using Novel Particle Cell</title>
+      <link>https://lucassheng.github.io/publication/cheung-motion-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/cheung-motion-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Disocclusion Filling Using Novel Sprite Cells</title>
+      <link>https://lucassheng.github.io/publication/cheung-spatio-temporal-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/cheung-spatio-temporal-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Head Pose Tracking with Online Face Template Reconstruction</title>
+      <link>https://lucassheng.github.io/publication/li-real-time-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/li-real-time-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screen-camera calibration using a thread</title>
+      <link>https://lucassheng.github.io/publication/li-screen-camera-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/li-screen-camera-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
