@@ -5,7 +5,7 @@
     <link>https://lucassheng.github.io/</link>
       <atom:link href="https://lucassheng.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Lu Sheng (盛律)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lucassheng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Lu Sheng (盛律)</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation</title>
+      <link>https://lucassheng.github.io/publication/wang-improving-2022/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/wang-improving-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SketchSampler: Sketch-based 3D Reconstruction via View-dependent Depth Sampling</title>
+      <link>https://lucassheng.github.io/publication/gao-sketchsampler-2022/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/gao-sketchsampler-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation</title>
+      <link>https://lucassheng.github.io/publication/he-x-learner-2022/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/he-x-learner-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds</title>
       <link>https://lucassheng.github.io/publication/cai-3-djcg-2022/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://lucassheng.github.io/publication/cai-3-djcg-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image, Video and 3D Synthesis</title>
+      <link>https://lucassheng.github.io/project/image-and-video-synthesis/</link>
+      <pubDate>Mon, 05 Sep 2022 13:38:00 +0800</pubDate>
+      <guid>https://lucassheng.github.io/project/image-and-video-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language for 3D Scenes</title>
+      <link>https://lucassheng.github.io/project/language-for-3d-scenes/</link>
+      <pubDate>Mon, 05 Sep 2022 13:31:37 +0800</pubDate>
+      <guid>https://lucassheng.github.io/project/language-for-3d-scenes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Perception and Modeling</title>
+      <link>https://lucassheng.github.io/project/3d-perception-and-modeling/</link>
+      <pubDate>Mon, 05 Sep 2022 13:30:40 +0800</pubDate>
+      <guid>https://lucassheng.github.io/project/3d-perception-and-modeling/</guid>
       <description></description>
     </item>
     
@@ -57,6 +105,22 @@
       <link>https://lucassheng.github.io/publication/liu-votehmr-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://lucassheng.github.io/publication/liu-votehmr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Point Cloud Upsampling by Exploiting Multi-Scale Temporal Dependency</title>
+      <link>https://lucassheng.github.io/publication/wang-sequential-2021/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/wang-sequential-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformer3D-Det: Improving 3D Object Detection by Vote Refinement</title>
+      <link>https://lucassheng.github.io/publication/zhao-transformer-3d-det-2021/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/zhao-transformer-3d-det-2021/</guid>
       <description></description>
     </item>
     
@@ -109,17 +173,9 @@
     </item>
     
     <item>
-      <title>Morphing and Sampling Network for Dense Point Cloud Completion</title>
-      <link>https://lucassheng.github.io/publication/liu-morphing-2020/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://lucassheng.github.io/publication/liu-morphing-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Powering One-Shot Topological NAS with Stabilized Share-Parameter Proxy</title>
       <link>https://lucassheng.github.io/publication/vedaldi-powering-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://lucassheng.github.io/publication/vedaldi-powering-2020/</guid>
       <description></description>
     </item>
@@ -127,8 +183,16 @@
     <item>
       <title>Thinking in Frequency: Face Forgery Detection by Mining Frequency-Aware Clues</title>
       <link>https://lucassheng.github.io/publication/vedaldi-thinking-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://lucassheng.github.io/publication/vedaldi-thinking-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphing and Sampling Network for Dense Point Cloud Completion</title>
+      <link>https://lucassheng.github.io/publication/liu-morphing-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/liu-morphing-2020/</guid>
       <description></description>
     </item>
     
@@ -213,6 +277,14 @@
     </item>
     
     <item>
+      <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
+      <link>https://lucassheng.github.io/publication/liu-multi-label-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/liu-multi-label-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Zoom-Net: Mining Deep Feature Interactions for Visual Relationship Recognition</title>
       <link>https://lucassheng.github.io/publication/ferrari-zoom-net-2018/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
@@ -249,14 +321,6 @@
       <link>https://lucassheng.github.io/publication/cheung-spatio-temporal-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://lucassheng.github.io/publication/cheung-spatio-temporal-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
-      <link>https://lucassheng.github.io/publication/liu-multi-label-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://lucassheng.github.io/publication/liu-multi-label-2018/</guid>
       <description></description>
     </item>
     

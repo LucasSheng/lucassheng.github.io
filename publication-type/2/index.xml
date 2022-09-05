@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Sequential Point Cloud Upsampling by Exploiting Multi-Scale Temporal Dependency</title>
+      <link>https://lucassheng.github.io/publication/wang-sequential-2021/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/wang-sequential-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformer3D-Det: Improving 3D Object Detection by Vote Refinement</title>
+      <link>https://lucassheng.github.io/publication/zhao-transformer-3d-det-2021/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/zhao-transformer-3d-det-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Motion Compensated Virtual View Synthesis Using Novel Particle Cell</title>
       <link>https://lucassheng.github.io/publication/cheung-motion-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>

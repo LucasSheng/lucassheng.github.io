@@ -5,12 +5,36 @@
     <link>https://lucassheng.github.io/publication-type/1/</link>
       <atom:link href="https://lucassheng.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lucassheng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://lucassheng.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation</title>
+      <link>https://lucassheng.github.io/publication/wang-improving-2022/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/wang-improving-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SketchSampler: Sketch-based 3D Reconstruction via View-dependent Depth Sampling</title>
+      <link>https://lucassheng.github.io/publication/gao-sketchsampler-2022/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/gao-sketchsampler-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation</title>
+      <link>https://lucassheng.github.io/publication/he-x-learner-2022/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/he-x-learner-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds</title>
@@ -73,6 +97,22 @@
       <link>https://lucassheng.github.io/publication/yang-increaco-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://lucassheng.github.io/publication/yang-increaco-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powering One-Shot Topological NAS with Stabilized Share-Parameter Proxy</title>
+      <link>https://lucassheng.github.io/publication/vedaldi-powering-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/vedaldi-powering-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thinking in Frequency: Face Forgery Detection by Mining Frequency-Aware Clues</title>
+      <link>https://lucassheng.github.io/publication/vedaldi-thinking-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/vedaldi-thinking-2020/</guid>
       <description></description>
     </item>
     
@@ -141,6 +181,22 @@
     </item>
     
     <item>
+      <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
+      <link>https://lucassheng.github.io/publication/liu-multi-label-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/liu-multi-label-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoom-Net: Mining Deep Feature Interactions for Visual Relationship Recognition</title>
+      <link>https://lucassheng.github.io/publication/ferrari-zoom-net-2018/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://lucassheng.github.io/publication/ferrari-zoom-net-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Avatar-Net: Multi-scale Zero-Shot Style Transfer by Feature Decoration</title>
       <link>https://lucassheng.github.io/publication/sheng-avatar-net-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -161,14 +217,6 @@
       <link>https://lucassheng.github.io/publication/sun-optical-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://lucassheng.github.io/publication/sun-optical-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
-      <link>https://lucassheng.github.io/publication/liu-multi-label-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://lucassheng.github.io/publication/liu-multi-label-2018/</guid>
       <description></description>
     </item>
     
